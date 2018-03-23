@@ -31,6 +31,8 @@
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="ALIGN_CONSECUTIVE_VARIABLE_DECLARATIONS" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
   </codeStyleSettings>
 </code_scheme>
